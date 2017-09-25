@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/andrewnguyen14/Scrape.git"
+    "url": "git+https://github.com/TJLack/Scrape"
   },
-  "author": "Andrew Nguyen",
+  "author": "Tyler Lackey",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/andrewnguyen14/Scrape/issues"
+    "url": "https://github.com/TJLack/Scrape/issues"
   },
-  "homepage": "https://github.com/andrewnguyen14/Scrape#readme",
+  "homepage": "https://github.com/TJLack/Scrape#readme",
   "dependencies": {
     "body-parser": "^1.18.1",
     "cheerio": "^1.0.0-rc.2",
